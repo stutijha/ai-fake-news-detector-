@@ -25,7 +25,7 @@ dataset from Kaggle — about 6,335 news articles labeled REAL or FAKE.
 
 ✿ ⋆｡°✩ *.✿*.｡✧*.｡✿*.｡✧*.｡✿*.｡✧*.｡✿*.｡✧*.｡✿*.｡✧*.｡✿ ⋆｡°✩
 
-## 🌼 How it works
+## 🌼 How it works !!
 
 1. 💮 The dataset is loaded using `pandas`
 2. 💮 Article text is converted into numeric vectors using `TfidfVectorizer`,
