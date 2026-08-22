@@ -43,7 +43,7 @@ dataset from Kaggle — about 6,335 news articles labeled REAL or FAKE.
 
 ✿ ⋆｡°✩ *.✿*.｡✧*.｡✿*.｡✧*.｡✿*.｡✧*.｡✿*.｡✧*.｡✿*.｡✧*.｡✿ ⋆｡°✩
 
-## 🌸 Requirements
+## 🌸 Requirements !!
 
 ```
 pip install pandas scikit-learn
