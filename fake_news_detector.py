@@ -117,7 +117,7 @@ print("Type 'exit' to stop.")
 print("=" * 55)
 
 while True:
-    article = input("\nEnter news text (or 'exit' to stop): ")
+    article = input("\nEnter news text (or 'exit' to stop) :: ")
 
     if article.lower() == "exit":
         print("\nGoodbye!")
