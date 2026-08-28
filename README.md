@@ -31,9 +31,9 @@ dataset from Kaggle — about 6,335 news articles labeled REAL or FAKE.
 2. 💮 Article text is converted into numeric vectors using `TfidfVectorizer`,
    which scores words by how important/unique they are, while ignoring
    common filler words like "the" and "is"
-3. 💮 The data is split into a training set (80%) and test set (20%)
+3. 💮 The data is split into a training set (80%) and the test set (20%)
 4. 💮 A `LogisticRegression` model is trained to recognize word patterns
-   that separate real news from fake news
+   that separates real news from fake news
 5. 💮 Accuracy, a classification report, and a confusion matrix show how
    well the model performs on articles it hasn't seen before
 6. 💮 You can then paste in any news text and get a live REAL/FAKE
@@ -60,7 +60,7 @@ python fake_news_detector.py
 ## 🎀 Example
 
 ```
-Enter news text (or 'exit' to stop): alien was seen eating a mango popsicle
+Enter news text (or 'exit' to stop): monster was seen eating a mango popsicle
 
 -------------------------------------------------------
    RESULT: FAKE
@@ -72,7 +72,7 @@ Enter news text (or 'exit' to stop): alien was seen eating a mango popsicle
 
 ✿ ⋆｡°✩ *.✿*.｡✧*.｡✿*.｡✧*.｡✿*.｡✧*.｡✿*.｡✧*.｡✿*.｡✧*.｡✿ ⋆｡°✩
 
-## 🌷 Future improvements
+## 🌷 Future improvements !!
 
 - 🌸 Combine title + text for potentially better accuracy
 - 🌸 Try other models (Naive Bayes, Random Forest) and compare results
