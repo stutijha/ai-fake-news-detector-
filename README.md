@@ -11,7 +11,7 @@ a cute little confidence bar to show how sure it is.
 
 <br>
 
-## 🌷 Dataset
+## 🌷 Dataset ::
 
 This project uses the ["Fake or Real News"](https://www.kaggle.com/datasets/jillanisofttech/fake-or-real-news)
 dataset from Kaggle — about 6,335 news articles labeled REAL or FAKE.
