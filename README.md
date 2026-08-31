@@ -5,7 +5,7 @@
 
 ✿ ⋆｡°✩ *.✿*.｡✧*.｡✿*.｡✧*.｡✿*.｡✧*.｡✿*.｡✧*.｡✿*.｡✧*.｡✿ ⋆｡°✩
 
-A machine learning model that classifies news articles as **REAL** 🌷 or
+A machine learning model that classifies the entered news articles as **REAL** 🌷 or
 **FAKE** 🥀, using TF-IDF text vectorization and Logistic Regression — with
 a cute little confidence bar to show how sure it is.
 
