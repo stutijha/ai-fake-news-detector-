@@ -1,7 +1,7 @@
 ✿ ⋆｡°✩ *.✿*.｡✧*.｡✿*.｡✧*.｡✿*.｡✧*.｡✿*.｡✧*.｡✿*.｡✧*.｡✿ ⋆｡°✩
 
 # 🌸 Fake News Detector 🌸
-### *!! a smart little AI that finds out fake news !!* 🕵️‍♀️💖
+### *!! a smart little AI that finds out whether fake news !!* 🕵️‍♀️💖
 
 ✿ ⋆｡°✩ *.✿*.｡✧*.｡✿*.｡✧*.｡✿*.｡✧*.｡✿*.｡✧*.｡✿*.｡✧*.｡✿ ⋆｡°✩
 
